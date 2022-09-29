@@ -1,4 +1,6 @@
 import React from "react";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import { useEffect } from "react";
 import { useState } from "react";
 import Cart from "../Cart/Cart";
@@ -8,6 +10,7 @@ import gym from '../../images/gym-logo-template-design-04d583c8ca3558ea0ea21763a
 import Portfolio from "../Portfolio/Portfolio";
 
 const Home = () => {
+  const notify = () => toast("Wow so easy!");
   const [datas, setdatas] = useState([]);
   const [cart, setcart] = useState([])
   
@@ -53,9 +56,10 @@ const Home = () => {
           <Cart  cart={cart}></Cart>
           <div>
 
-          <button className="cartbutton">Activity Completed</button>
-          
+          <button onClick={notify} className="cartbutton">Activity Completed</button>
+          <ToastContainer />
           </div>
+
           
         </div>
       </div>
