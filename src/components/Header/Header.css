@@ -8,6 +8,11 @@
     padding-right: 80px;
 }
 
+.header-name{
+    color: white;
+    font-size: 34px;
+}
+
 .header a {
     color: white;
     text-decoration: none;
