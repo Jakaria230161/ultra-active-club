@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01",
+    "name": "Dumble",
+    "time": "10 Minute",
+    "img": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+   
+  },
+
+
+  {
+    "id": "02",
+    "name": "Dumble",
+    "time": "20 Minute",
+    "img": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+   
+  },
+  {
+    "id": "03",
+    "name": "Dumble",
+    "time": "25 Minute",
+    "img": "https://i.pinimg.com/474x/b1/6b/69/b16b69a45df645bfee887c5673c159e7.jpg"
+  
+  },
+  {
+    "id": "04",
+    "name": "Dumble",
+    "time": "12 Minute",
+    "img": "https://keeno.app/storage/6216/2020_10_10_20_03_5f81bf206eb8b_upload.png"
+  },
+  {
+    "id": "05",
+    "name": "Dumble",
+    "time": "23 Minute",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2eK9UWNAYlHBg9Xzde9-gEB7f30zhaR8eg&usqp=CAU"
+  },
+  {
+    "id": "06",
+    "name": "Lat Pulldown Machine. ..",
+    "time": "30 Minute",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08NUGzswr3sMufrcFiFbU5aISpYnRxnm9RQ&usqp=CAU"
+  }
+  
+  
+
+]

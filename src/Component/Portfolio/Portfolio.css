@@ -1,0 +1,16 @@
+
+.portfolio img{
+    width: 250px;
+    
+   
+}
+.portfolio-information{
+    display: flex;
+    border: 2px solid gray;
+    justify-content: space-between;
+   margin-bottom: 20px;
+}
+.portfolio-information p {
+    font-size: 20px;
+    font-weight: bold;
+}

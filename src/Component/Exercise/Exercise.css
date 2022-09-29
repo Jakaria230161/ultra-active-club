@@ -1,0 +1,19 @@
+.exercise img{
+    height: 200px;
+    width: 200px;
+}
+
+.exercise {
+    border: 2px solid gray;
+    position: relative;
+    height: 400px;
+}
+
+.practice-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color:blue;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}

@@ -1,14 +1,23 @@
 
-import './App.css';
-import Header from './components/Header/Header';
+import "./App.css";
+import Home from "./Component/Home/Home";
+import Question from "./Component/Question/Question";
+
+
+
 
 function App() {
   return (
-    <div>
-      <Header></Header>  
 
+    <div>
+      <Home></Home>
+      <Question></Question>
+    
+ 
+    
     </div>
-  );
+  )
+  
 }
 
 export default App;
