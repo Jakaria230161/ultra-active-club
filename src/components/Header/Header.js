@@ -1,10 +1,18 @@
 import React from 'react';
 
+import './/Header.css'
+
 const Header = () => {
     return (
-        <div>
-            <h2>This is a header.</h2>
-        </div>
+        <nav className='header'>
+            <h2>Anytime Fitness</h2>
+            <div>
+                <a href="/Home">Home</a>
+                <a href="/About">About</a>
+                <a href="/Fitness blog">Fitness blog</a>
+                <a href="/Contact">Contact</a>
+            </div>
+        </nav>
     );
 };
 
