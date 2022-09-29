@@ -9,7 +9,7 @@ const Portfolio = () => {
            <img src={portfotlio} alt="" />
            <div>
            <h3>Muhammad Jakaria Mahmud</h3>
-           <p>Khustia,Bangladesh</p>
+           <p>Kuhstia,Bangladesh</p>
            </div>
            </div>
            <div className="portfolio-information">

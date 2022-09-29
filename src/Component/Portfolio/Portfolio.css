@@ -1,14 +1,17 @@
 
 .portfolio img{
     width: 250px;
+    border-radius: 25px;
     
-   
+
 }
 .portfolio-information{
     display: flex;
     border: 2px solid gray;
+    border-radius: 15px;
     justify-content: space-between;
-   margin-bottom: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
 }
 .portfolio-information p {
     font-size: 20px;

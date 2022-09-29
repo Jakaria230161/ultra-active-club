@@ -37,7 +37,7 @@ const Home = () => {
         <img src={gym} alt="" />
         <h1>Daily-exercise</h1>
         </div>
-        <h1>Select Exercise List</h1>
+        <h1>Select Exercise List: </h1>
           <div className="practice">
           {datas.map((data) => (
             <Exercise 

@@ -12,7 +12,7 @@ const Cart = ({cart}) => {
   
     return (
         <div>
-            <h3 className='price'>Practice Time:{total} Minute</h3>  
+            <h3 className='price'>Practice Time: {total} Minute</h3>  
         </div>
     );
 };

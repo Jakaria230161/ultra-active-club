@@ -4,21 +4,25 @@ import './Question.css'
 const Question = () => {
     return (
         <div className='q-container'>
-            <h1>HOw to work react?</h1>
-            <p>Let us understand this with a practical example.
+            <h1>How does work react?</h1>
+            <p>It’s a library. For building user interfaces. This is perfect because, more often than not, this is all we want. The best part about this description is that it highlights React’s simplicity. It’s not a mega framework. It’s not a full-stack solution that’s going to handle everything from the database to real-time updates over web socket connections. We don’t actually want most of these pre-packaged solutions, because in the end, they usually cause more problems than they solve. Facebook sure did listen to what we want.
+            </p>
+            <br></br>
+            <br></br>
 
-                Let’s say one of your friends posted a photograph on Facebook. Now you go and like the image and then you started checking out the comments too. Now while you are browsing over comments you see that the likes count has increased by 100, since you liked the picture, even without reloading the page. This magical count change is because of ReactJS. </p>
-            <br>
+            <h2>How to work useEffect?</h2>
+            <p>When we want to perform something after each render of component then we can use the useEffect() hook. By using this Hook, we tell React that our component needs to do something after render by passing a function. React remember the function we passed in useEffect() hook and call it later after performing the DOM updates.
 
-            </br>
+            By default, the useEffect hook runs after the first render and after every update. React updates the DOM by the time it runs the effect
 
-            <h2>how to work useEffect?</h2>
-            <p>The useEffect hook is the Swiss Army knife of all the hooks. It’s the solution to many problems: how to fetch data when a component mounts, how to run code when state changes or when a prop changes, how to set up timers or intervals, you name it.</p>
-            <br>
-
-            </br>
-            <h2>differece props and state?</h2>
-            <p>Props are used to pass data from one component to another. The state is a local data storage that is local to the component only and cannot be passed to other components</p>
+            </p>
+            <br></br>
+            <br></br>
+            <h2>What is difference between props and state?</h2>
+            <p>Props are used to pass data from one component to another.
+            The state is a local data storage that is local to the component only and cannot be passed to other components.
+                The this.setState property is used to update the state values in the component.
+            </p>
         </div>
     );
 };
