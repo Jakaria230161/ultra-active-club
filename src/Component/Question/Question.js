@@ -10,7 +10,7 @@ const Question = () => {
             <br></br>
             <br></br>
 
-            <h2>How to work useEffect?</h2>
+            <h1>How to work useEffect?</h1>
             <p>When we want to perform something after each render of component then we can use the useEffect() hook. By using this Hook, we tell React that our component needs to do something after render by passing a function. React remember the function we passed in useEffect() hook and call it later after performing the DOM updates.
 
             By default, the useEffect hook runs after the first render and after every update. React updates the DOM by the time it runs the effect
@@ -18,7 +18,7 @@ const Question = () => {
             </p>
             <br></br>
             <br></br>
-            <h2>What is difference between props and state?</h2>
+            <h1>What is difference between props and state?</h1>
             <p>Props are used to pass data from one component to another.
             The state is a local data storage that is local to the component only and cannot be passed to other components.
                 The this.setState property is used to update the state values in the component.

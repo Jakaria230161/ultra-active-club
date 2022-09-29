@@ -10,7 +10,7 @@ import gym from '../../images/gym-logo-template-design-04d583c8ca3558ea0ea21763a
 import Portfolio from "../Portfolio/Portfolio";
 
 const Home = () => {
-  const notify = () => toast("Wow so easy!");
+  const notify = () => toast("Yeah! Everything Worked!");
   const [datas, setdatas] = useState([]);
   const [cart, setcart] = useState([])
   
@@ -35,7 +35,7 @@ const Home = () => {
 
         <div className="header">
         <img src={gym} alt="" />
-        <h1>Daily-exercise</h1>
+        <h1>Daily-Exercise</h1>
         </div>
         <h1>Select Exercise List: </h1>
           <div className="practice">
