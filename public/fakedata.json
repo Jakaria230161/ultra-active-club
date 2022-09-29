@@ -1,44 +1,44 @@
 [
   {
     "id": "01",
-    "name": "Dumble",
-    "time": "10 Minute",
-    "img": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    "name": "Push Up",
+    "time": "15 Minute",
+    "img": "https://post.greatist.com/wp-content/uploads/sites/2/2019/04/FEATURE1-1200x628.jpg"
    
   },
 
 
   {
     "id": "02",
-    "name": "Dumble",
-    "time": "20 Minute",
-    "img": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    "name": "Jumping Jacks",
+    "time": "10 Minute",
+    "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/08/10-Best-Benefits-Of-Jumping-Jacks-Exercises-For-Your-Body.jpg"
    
   },
   {
     "id": "03",
-    "name": "Pec Deck Machine.",
-    "time": "25 Minute",
-    "img": "https://i.pinimg.com/474x/b1/6b/69/b16b69a45df645bfee887c5673c159e7.jpg"
+    "name": "Planks",
+    "time": "20 Minute",
+    "img": "https://www.realsimple.com/thmb/BXiGcg5LbEgjAzql1fistUGsoJE=/2000x1125/filters:fill(auto,1)/how-to-plank_1-1-1da9573eb33143e6983515ebc07dcb0e.jpg"
   
   },
   {
     "id": "04",
-    "name": "Dumble",
+    "name": "Crunches",
     "time": "12 Minute",
-    "img": "https://keeno.app/storage/6216/2020_10_10_20_03_5f81bf206eb8b_upload.png"
+    "img": "https://phantom-marca.unidadeditorial.es/8189283d17fceaf42dc35a013b13d230/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/26/16458965207700.jpg"
   },
   {
     "id": "05",
-    "name": "Kettlebells. ",
-    "time": "23 Minute",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2eK9UWNAYlHBg9Xzde9-gEB7f30zhaR8eg&usqp=CAU"
+    "name": "Burpees",
+    "time": "18 Minute",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAlWi077EuNnFNE_9aXUArmNWfT89a3shpWg&usqp=CAU"
   },
   {
     "id": "06",
-    "name": "Lat Pulldown Machine. ..",
-    "time": "30 Minute",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08NUGzswr3sMufrcFiFbU5aISpYnRxnm9RQ&usqp=CAU"
+    "name": "Knee Lifts",
+    "time": "28 Minute",
+    "img": "https://www.muscleandfitness.com/wp-content/uploads/2020/01/Untitled-1_10.jpg?quality=86&strip=all"
   }
   
   
